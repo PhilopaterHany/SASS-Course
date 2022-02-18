@@ -1,0 +1,26 @@
+// Method 1 With Nesting
+.class > {
+    .child {
+        padding: 10px;
+    }
+}
+
+// Method 2 With Variables and Interpolation
+$main: "class";
+$child: "child";
+$value: 10px;
+.#{$main} > {
+    .#{$child} {
+        padding: $value;
+    }
+}
+
+// Method 3 With Placeholder and Extend
+%main-box {
+    .child {
+        padding: 10px;
+    }
+}
+.class > {
+    @extend %main-box;
+}

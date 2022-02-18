@@ -1,0 +1,81 @@
+// Nesting & Parent Element
+
+.parent {
+  font-weight: bold;
+  .child {
+    font-size: 20px;
+    .grand-child {
+      font-size: 15px;
+    }
+  }
+}
+
+.parent-one,
+.parent-two {
+  padding: 20px;
+  .child {
+    padding: 10px;
+  }
+}
+
+.parent > {
+  .child {
+    font-size: 20px;
+  }
+  .test {
+    font-weight: bold;
+  }
+}
+
+.parent {
+  > .child {
+    font-size: 20px;
+  }
+  .test {
+    font-weight: bold;
+  }
+  + p {
+    font-size: 15px;
+  }
+}
+
+.parent {
+  > {
+    .element-one {
+      font-size: 10px;
+    }
+    .element-two {
+      font-size: 10px;
+    }
+  }
+  .not-direct-child {
+    font-weight: bold;
+  }
+}
+
+.box {
+  .title {
+    font-size: 10px;
+  }
+  .description {
+    font-size: 8px;
+  }
+  &.red {
+    color: red;
+  }
+  &.green {
+    color: green;
+  }
+  &:hover {
+    background-color: #eee;
+  }
+  &:hover .title {
+    font-weight: bold;
+  }
+  :not(&) {
+    font-weight: normal;
+  }
+  [dir="rtl"] & {
+    direction: rtl;
+  }
+}

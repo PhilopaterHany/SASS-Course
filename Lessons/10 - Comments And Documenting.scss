@@ -1,0 +1,21 @@
+// Comments
+
+// This Comment Will Not Show In CSS File
+
+/* This Comment Will Show In CSS File But Not In Compressed Mode */
+
+/*! This Comment Will Show In CSS File And In Compressed Mode */
+
+.box /* Multiple
+Lines
+Comment */ {
+  font-size: 20px; // Inline Comment
+}
+
+/* This Comment Contains Interpolation => #{$company} */
+
+/// Function To Do Bla Bla Bla
+///
+/// @param {num}
+/// The Number To Deal With
+/// @return {int}

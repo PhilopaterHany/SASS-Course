@@ -1,0 +1,32 @@
+// main.scss
+// Function
+
+$width: 200px;
+
+.element {
+  width: $width;
+  height: half($width);
+  top: calculate(100px, 200px, 50px);
+}
+
+// -----------------------------------------------
+
+// sass/helpers/_functions.scss
+/// Function To Get Element Height
+///
+/// @param {size}
+/// Element Width
+/// @return {int}
+/// Return Element Height => Width / 2
+
+@function half($size) {
+  @return $size / 2;
+}
+
+@function calculate($sizes...) {
+  $total: 0;
+  @each $size in $sizes {
+    $total: $total + $size;
+  }
+  @return $total;
+}

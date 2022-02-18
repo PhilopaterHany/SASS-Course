@@ -1,0 +1,20 @@
+// Control Flow => If And Else
+
+$theme: "dark";
+
+.page {
+  @if $theme == "light" {
+    background-color: white;
+    color: #444;
+  } @else {
+    background-color: #444;
+    color: white;
+  }
+}
+
+$rounded: false;
+
+.box {
+  @extend %main-box;
+  border-radius: if($rounded, 6px, null);
+}

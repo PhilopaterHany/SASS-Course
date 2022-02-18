@@ -1,0 +1,20 @@
+$num: 2;
+$start: 100;
+@function double($size) {
+    @return $size * $num;
+}
+@for $i from 1 to 6 {
+    @if $i == 1 {
+        $start: $start;
+        .col-#{$start} {
+            width: #{$start}px;
+            height: #{double($start)}px;
+        }
+    } @else {
+        $start: $start * 2;
+        .col-#{$start} {
+            width: #{$start}px;
+            height: #{double($start)}px;
+        }
+    }
+}

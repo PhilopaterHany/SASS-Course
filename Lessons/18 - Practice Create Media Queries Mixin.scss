@@ -1,0 +1,40 @@
+// main.scss
+// If Condition + Mixin + Content
+
+.media {
+  @include breakpoints(mobile) {
+    font-size: 15px;
+  }
+  @include breakpoints(small) {
+    font-size: 18px;
+  }
+  @include breakpoints(medium) {
+    font-size: 20px;
+  }
+  @include breakpoints(large) {
+    font-size: 22px;
+  }
+}
+
+// -----------------------------------------
+
+// sass/helpers/_mixins.scss
+@mixin breakpoints($point) {
+  @if $point == mobile {
+    @media (max-width: 767px) {
+      @content;
+    }
+  } @else if $point == small {
+    @media (min-width: 768px) and (max-width: 991px) {
+      @content;
+    }
+  } @else if $point == medium {
+    @media (min-width: 992px) and (max-width: 1199px) {
+      @content;
+    }
+  } @else if $point == large {
+    @media (min-width: 1200px) {
+      @content;
+    }
+  }
+}

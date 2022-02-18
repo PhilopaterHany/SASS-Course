@@ -1,0 +1,20 @@
+// main.scss
+// Import Global Rules
+@use "./sass/layout/global_rules";
+
+// Import Pages
+@use "./sass/pages/contact";
+
+// -------------------------------------------------------
+
+// sass/layout/_global-rules.scss
+* {
+  box-sizing: border-box;
+}
+
+// -------------------------------------------------------
+
+// sass/pages/_contact.scss
+.contact {
+  padding: 20px;
+}

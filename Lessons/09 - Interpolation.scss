@@ -1,0 +1,13 @@
+// Interpolation
+
+$company: "falcon";
+$position: "right";
+
+.ad-#{$company}-#{unique-id()} {
+  font-size: 20px;
+  background-image: url("imgs/#{$company}.png");
+  #{$position}: 0;
+}
+.ad-#{unique-id()} {
+  font-weight: bold;
+}
