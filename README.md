@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 => [Create Bootstrap Grid System](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 => [Function](<https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 => [Function](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 17 => [Practice Mixin With Content](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
 
