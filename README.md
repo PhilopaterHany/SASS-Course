@@ -2,67 +2,75 @@
 
 # SASS Course From [Elzero Web School](https://elzero.org/)
 
-[Course Study Plan](https://elzero.org/study/sass-2021-study-plan/) => [ 2 From 2 ] - Weeks
+[Course Study Plan](https://elzero.org/study/sass-2021-study-plan/) => [ 02 From 02 ] - Weeks
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
 ---
 
-[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) => [ 19 From 19 ] - Videos
+[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) => [ 19 From 19 ] - Videos ( 02 Hours, 00 Minutes, 01 Second )
 
 ![100%](https://progress-bar.dev/100/?title=Watched)
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/sass-assignments/) => [ 2 From 2 ] - Assignments
+[Assignments Solved](https://elzero.org/category/assignments/sass-assignments/) => [ 09 From 09 ] - Assignments ( 02 Topics )
 
 ![100%](https://progress-bar.dev/100/?title=Solved)
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 01 => [Introduction and What Is SASS?](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+## Lessons
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 02 => [Sass Compilation Tools](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 01 => [Introduction & What Is SASS?](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/01%20-%20Introduction%20and%20What%20Is%20SASS.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 03 => [Import And Use And Advanced Architecture](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 02 => [Sass Compilation Tools](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/02%20-%20Sass%20Compilation%20Tools.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 04 => [Variables](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 03 => [Import & Use & Advanced Architecture](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/03%20-%20Import%20And%20Use%20And%20Advanced%20Architecture.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 05 => [Nesting And Parent Element](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 04 => [Variables](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/04%20-%20Variables.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 06 => [Property Declarations And Placeholder](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 05 => [Nesting & Parent Element](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/05%20-%20Nesting%20And%20Parent%20Element.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 07 => [Control Flow – If, Else](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 06 => [Property Declarations & Placeholder](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/06%20-%20Property%20Declarations%20And%20Placeholder.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 08 => [Create Triangle With If and Else](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 07 => [Control Flow – If & Else](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/07%20-%20Control%20Flow%20%E2%80%93%20If%20Else.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 09 => [Interpolation](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 08 => [Create Triangle With If and Else](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/08%20-%20Create%20Triangle%20With%20If%20and%20Else.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 10 => [Comments And Documenting](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 09 => [Interpolation](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/09%20-%20Interpolation.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 11 => [Mixin And Include](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons.scss)
+- `Watched` - 10 => [Comments & Documenting](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/10%20-%20Comments%20And%20Documenting.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 12 => [Loop - For](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 11 => [Mixin & Include](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/11%20-%20Mixin%20And%20Include.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 13 => [Loop - Each and Maps](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 12 => [For Loop](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/12%20-%20Loop%20%E2%80%93%20For.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 14 => [Loop - While](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 13 => [Loop - Each & Maps](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/13%20-%20Loop%20%E2%80%93%20Each%20And%20Maps.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 => [Create Bootstrap Grid System](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 14 => [While Loop](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/14%20-%20Loop%20%E2%80%93%20While.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 => [Function](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 15 => [Create Bootstrap Grid System](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/15%20-%20Create%20Bootstrap%20Grid%20System.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 17 => [Practice Mixin With Content](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 16 => [Function](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/16%20-%20Function.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 18 => [Practice Create Media Queries Mixin](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 17 => [Practice Mixin With Content](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/17%20-%20Practice%20Mixin%20With%20Content.scss)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 19 => [The End And How To Master SASS](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/.scss)
+- `Watched` - 18 => [Practice Create Media Queries Mixin](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/18%20-%20Practice%20Create%20Media%20Queries%20Mixin.scss)
+
+- `Watched` - 19 => [The End & How To Master SASS](https://github.com/PhilopaterHany/SASS-Course/blob/main/Lessons/19%20-%20The%20End%20And%20How%20To%20Master%20SASS.scss)
+
+---
 
 ## Assignments
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - Nesting, Variables, Control Flow => [Assignments For Lessons From [ 01 ] To [ 10 ]](https://elzero.org/sass-2021-assignments-lesson-1-to-10/) => [Solution]()
+- `Solved` - Nesting & Variables & Control Flow => [Assignments For Lessons From [ 01 ] To [ 10 ]](https://elzero.org/sass-2021-assignments-lesson-1-to-10/) => [Solution](https://github.com/PhilopaterHany/SASS-Course/tree/main/Assignments/Assignments%20From%20%5B%2001%20%5D%20To%20%5B%2010%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - Mixin, Loop, Function => [Assignments For Lessons From [ 11 ] To [ 19 ]](https://elzero.org/sass-2021-assignments-lesson-11-to-19/) => [Solution]()
+- `Solved` - Mixin & Loop & Function => [Assignments For Lessons From [ 11 ] To [ 19 ]](https://elzero.org/sass-2021-assignments-lesson-11-to-19/) => [Solution](https://github.com/PhilopaterHany/SASS-Course/tree/main/Assignments/Assignments%20From%20%5B%2011%20%5D%20To%20%5B%2019%20%5D)
+
+---
+
+### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
 
 ### Made With :heart: By Philopater Hany
 
