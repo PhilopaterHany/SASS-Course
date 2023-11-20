@@ -1,6 +1,0 @@
-$gridCols: 16;
-@for $i from 1 through $gridCols {
-    .col-#{$i} {
-        width: percentage($i / $gridCols);
-    }
-}
