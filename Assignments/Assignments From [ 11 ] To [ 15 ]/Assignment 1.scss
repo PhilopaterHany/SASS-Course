@@ -1,0 +1,34 @@
+@mixin arrow($dir) {
+    content: "";
+    position: absolute;
+    border: 20px solid transparent;
+    @if $dir == top {
+        left: 50%;
+        transform: translateX(-50%);
+        top: -40px;
+        border-bottom-color: red;
+    } @else if $dir == right {
+        top: 50%;
+        transform: translateY(-50%);
+        right: -40px;
+        border-left-color: red;
+    } @else if $dir == bottom {
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -40px;
+        border-top-color: red;
+    } @else if $dir == left {
+        top: 50%;
+        transform: translateY(-50%);
+        left: -40px;
+        border-right-color: red;
+    }
+}
+.element {
+    &:before {
+        // @include arrow("top");
+        // @include arrow("right");
+        // @include arrow("bottom");
+        @include arrow("left");
+    }
+}

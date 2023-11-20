@@ -1,0 +1,7 @@
+$columns: 16;
+
+@for $i from 1 through $columns {
+    .col-#{$i} {
+        width: percentage($i / $columns);
+    }
+}

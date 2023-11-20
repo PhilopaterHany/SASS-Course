@@ -1,0 +1,22 @@
+.parent {
+    // The .sibling Element Right After .parent Elements
+    & + .sibling {
+        // margin: auto then margin-top: 10px;
+        margin: auto {
+            top: 10px;
+        }
+        // The .last Element After .sibling Element
+        & ~ .last {
+            padding: 10px;
+        }
+    }
+}
+
+// Output:
+// .parent + .sibling {
+//     margin: auto;
+//     margin-top: 10px;
+// }
+// .parent + .sibling ~ .last {
+//     padding: 10px;
+// }
