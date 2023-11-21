@@ -1,1 +1,33 @@
+// Method 1
+.class {
+    > .child {
+        padding: 10px;
+    }
+}
 
+// Method 2
+.class {
+    & > .child {
+        padding: 10px;
+    }
+}
+
+// Method 3
+%base-style {
+    padding: 10px;
+}
+.class {
+    > .child {
+        @extend %base-style;
+    }
+}
+
+// Method 4
+@mixin childStyle {
+    padding: 10px;
+}
+.class {
+    > .child {
+        @include childStyle();
+    }
+}

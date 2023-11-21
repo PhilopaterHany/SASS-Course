@@ -1,0 +1,14 @@
+$num: 2;
+$start: 100;
+
+@function double($size) {
+    @return $size * $num;
+}
+
+@for $i from 0 through 4 {
+    .box-#{$start} {
+        width: #{$start}px;
+        height: #{double($start)}px;
+    }
+    $start: double($start);
+}

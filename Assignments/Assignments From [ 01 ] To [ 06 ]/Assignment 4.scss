@@ -11,12 +11,3 @@
         }
     }
 }
-
-// Output:
-// .parent + .sibling {
-//     margin: auto;
-//     margin-top: 10px;
-// }
-// .parent + .sibling ~ .last {
-//     padding: 10px;
-// }

@@ -1,0 +1,12 @@
+@function get-total($values...) {
+    $total: 0;
+    @each $val in $values {
+        $total: $total + $val;
+    }
+    @return $total;
+}
+
+.box {
+    top: get-total(100, 50, 20);
+    right: get-total(100, 50);
+}
